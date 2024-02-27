@@ -1,5 +1,5 @@
 # Cosmic-Alloys--Steel-Manufacturing-Industry
-This Responsive and Mobile-freiendly website is developed using Bootstrap ,Html, CSS , Javascript .
+This Responsive and Mobile-freiendly website is developed using **Bootstrap** ,**Html**, **CSS** , **Javascript** .
 Website Link : https://cosmicalloy.com/
 
 ![image](https://github.com/manimaran-14/Cosmic-Alloys--Steel-Manufacturing-Industry/assets/161288914/0bdcfc1e-3e5d-49d7-8f5b-ef80373b4bd9)
